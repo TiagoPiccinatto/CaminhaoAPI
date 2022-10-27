@@ -1,4 +1,4 @@
-﻿﻿# :computer: CaminhaoAPI 
+# :computer: CaminhaoAPI 
 
 ### .NET API CRUD de cadastro de caminhões `GET` `POST` `PUT` `DELETE`
 
